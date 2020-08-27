@@ -114,7 +114,14 @@ body {
 
   }
   
-  .portfolio-img-background {
+  /* .portfolio-img-background {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 100%;
+  } */
+  .picture {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -122,9 +129,42 @@ body {
     width: 100%;
   }
   .picture--1 {
-    background-image: url(../images/formule1.png);
+    background-image: url(../images/formule1.jpg);
   }
-  
+  .picture--2 {
+    background-image: url(../images/joda2.jpg);
+  }
+  .picture--3 {
+    background-image: url(../images/tesla3.jpg);
+  }
+  .picture--4 {
+    background-image: url(../images/ogr4.jpg);
+  }
+  .picture--5 {
+    background-image: url(../images/mandalorianship.jpg);
+  }
+  .picture--6 {
+    background-image: url(../images/rocketleaague6.jpg);
+  }
+  .picture--7 {
+    background-image: url(../images/porsche911_7.jpg);
+  }
+  .picture--8 {
+    background-image: url(../images/helicopter8.jpg);
+  }
+  .picture--9 {
+    background-image: url(../images/plane9.jpg);
+  }
+  .picture--10 {
+    background-image: url(../images/ronaldo10.jpg);
+  }
+  .picture--11 {
+    background-image: url(../images/pikachu11.jpg);
+  }
+  .picture--12 {
+    background-image: url(../images/groot12.jpg);
+  }
+
   .img-text-wrapper {
     position: absolute;
     top: 0;
