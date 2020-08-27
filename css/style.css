@@ -121,6 +121,9 @@ body {
     height: 350px;
     width: 100%;
   }
+  .picture--1 {
+    background-image: url(../images/formule1.png);
+  }
   
   .img-text-wrapper {
     position: absolute;
